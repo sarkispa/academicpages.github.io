@@ -3,5 +3,12 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  - title: "Curriculum Vitae"
+  - title: "CV"
     url: /cv/
+
+  - title: "Code"
+    url: /code/
+
+  - title: "Lecture Notes"
+    url: /lect/
+
