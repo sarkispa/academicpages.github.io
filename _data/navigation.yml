@@ -1,10 +1,7 @@
-# main links links
+# main links
 main:
-  - title: "Teaching"
-    url: /teaching/
-
-  - title: "CV"
-    url: /cv/
+  - title: "Research"
+    url: /research/
 
   - title: "Code"
     url: /code/
@@ -12,3 +9,5 @@ main:
   - title: "Lecture Notes"
     url: /lect/
 
+  - title: "CV"
+    url: /cv/
