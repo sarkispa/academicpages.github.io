@@ -13,32 +13,31 @@ redirect_from:
 * M.Sc. in Applied Economics, HEC Montréal, 2017
 * B.A.A. in Administration, specialized in Economics, HEC Montréal, 2015
 
-#### Master's thesis: Competitive Behavior in the Ontario Electricity Generation Market (available here, in French)
+#### Master's thesis: Competitive Behavior in the Ontario Electricity Generation Market (available [here](http://biblos.hec.ca/biblio/memoires/m2017NO48.pdf), in French)
 
-The results of my thesis can be divided in two connected parts. First, using IESO data, I find that the perfect competition hypothesis used frequently in models of the Ontario electricity market is a better model if we add a Cournot setting to it, in particular in times of high demand. Second, using this two-model setting, I compute the effects of different environmental policies on the market structure. Policies studied include a potential carbon tax or a natural gas phaseout. Results show that under market power these policies seem less efficient than with perfect competition only.
+The results of my thesis can be divided in two connected parts. First, using IESO data, I find that the perfect competition assumption used in the analysis of the Ontario electricity market is not sufficient. Analysis can be improved by also considering a Cournot setting, highlighting the role of market power in Ontario, in particular in times of high demand. Second, using these two models, I compute the effects of different environmental policies on the market structure. These counterfactuals include input prices shocks (carbon tax) and portfolio manipulation (natural gas phase-out). Results show that market power has a negative effect on these policies, as they seem less efficient than within the perfect competition setting.
 
 ------
 
 ## Professional Experience
 
-- Lecturer in Microeconomics, Winter 2017, HEC Montréal
+ * **Lecturer** in Microeconomics, Winter 2017, *HEC Montréal*
   - Preparation of the lectures (slides, activities, etc.)
   - Design of in-class quizzes, midterm and final exams
   - Weekly lecture of three (3) hours to a class of 65 students
   - Grading of the tests and exams
 
-- Economist, May 2016-May 2017, HEC-Manulife Investment fund
+
+ * **Economist** , May 2016-May 2017, *HEC-Manulife Investment Fund*
   - Coverage and forecast of the international macroeconomic environment
-    - Focus on the United States and Europe economic environments
   - Analysis of the funds' global performance
   - Asset allocation between sectors based on our forecast of the economy
 
-- Teaching Assistant, Sept. 2015-Jan.2017, HEC Montréal
+
+ * **Teaching Assistant** , Sept. 2015-Jan.2017, *HEC Montréal*
   - Microeconomic Analysis (Fall 2015)
   - Macroeconomic Analysis (Winter 2016)
   - Consumer Behaviour and Cost-Benefit Analysis (M.A.-level, Fall 2016)
-    - Prepare tutorials sessions and solve problems in class
-    - Answer students' questions during office hours
 
 ------
 
@@ -47,6 +46,7 @@ The results of my thesis can be divided in two connected parts. First, using IES
 - Quantitative programming:
   - Preferred languages: Python, Julia
   - Languages I am proficient with: Stata, Matlab, R, Mathematica, GAMS, Gurobi, EViews, Gretl
+
 
 - Productivity:
   - LaTeX (beamer, etc)
