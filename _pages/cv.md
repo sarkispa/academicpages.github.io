@@ -1,4 +1,4 @@
----
+﻿---
 layout: archive
 title: "Curriculum Vitae"
 permalink: /cv/
@@ -7,20 +7,20 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+## Education
 
-### Education
-======
-* B.A.A. in Administration, specialized in Economics, HEC Montréal, 2015
-* M.Sc. in Applied Economics, HEC Montréal, 2017
 * Ph.D. in Economics, Boston College, 2022 (expected)
+* M.Sc. in Applied Economics, HEC Montréal, 2017
+* B.A.A. in Administration, specialized in Economics, HEC Montréal, 2015
 
 #### Master's thesis: Competitive Behavior in the Ontario Electricity Generation Market (available here, in French)
 
 The results of my thesis can be divided in two connected parts. First, using IESO data, I find that the perfect competition hypothesis used frequently in models of the Ontario electricity market is a better model if we add a Cournot setting to it, in particular in times of high demand. Second, using this two-model setting, I compute the effects of different environmental policies on the market structure. Policies studied include a potential carbon tax or a natural gas phaseout. Results show that under market power these policies seem less efficient than with perfect competition only.
 
-### Experience
-======
+------
+
+## Professional Experience
+
 - Lecturer in Microeconomics, Winter 2017, HEC Montréal
   - Preparation of the lectures (slides, activities, etc.)
   - Design of in-class quizzes, midterm and final exams
@@ -40,7 +40,9 @@ The results of my thesis can be divided in two connected parts. First, using IES
     - Prepare tutorials sessions and solve problems in class
     - Answer students' questions during office hours
 
-### Technical skills
+------
+
+## Technical skills
 
 - Quantitative programming:
   - Preferred languages: Python, Julia
