@@ -14,5 +14,5 @@ During my first years in the Ph.D. program, I've compiled a set of lecture notes
 
 ### Econometrics
 
-- First-year Econometrics, taught by Prof. Arthur Lewbel.
-- Cross-section and Panel Econometrics, taught by Prof. Stefan Hoderlein
+- [_First-year Econometrics_](https://github.com/sarkispa/LectureNotes/blob/master/metrics/7772_INTRO/7772_LectureNotes.pdf), taught by Prof. Arthur Lewbel.
+- [_Cross-section and Panel Econometrics_](https://github.com/sarkispa/LectureNotes/blob/master/metrics/8822_CSPDE/8822_LectureNotes.pdf), taught by Prof. Stefan Hoderlein
