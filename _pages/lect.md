@@ -21,6 +21,9 @@ During my first years in the Ph.D. program, I've compiled a set of lecture notes
 
 - [__Part II: Business Cycles__](https://github.com/sarkispa/LectureNotes/blob/master/macro/7751_M02/7751_LectureNotes.pdf), taught by Prof. Susanto Basu.
 
+### Industrial organization
+- [__Part I__](https://github.com/sarkispa/LectureNotes/blob/master/io/io1/8853_LectureNotes.pdf), taught by Prof. Julie Holland Mortimer
+
 ------
 
 ## Disclaimer
