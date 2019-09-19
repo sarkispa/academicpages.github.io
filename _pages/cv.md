@@ -9,7 +9,7 @@ redirect_from:
 
 ## Education
 
-* Ph.D. in Economics, Boston College, 2022 (expected)
+* Ph.D. in Economics, Boston College, 2023 (expected)
 * M.A. in Economics, Boston College, 2018 (part of Ph.D. curriculum)
 * M.Sc. in Applied Economics, HEC Montréal, 2017
 * B.A.A. in Administration, specialized in Economics, HEC Montréal, 2015
