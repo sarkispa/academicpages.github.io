@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an Economics Ph.D. student at Boston College since August 2017.
+My first name is Paul Anthony, my last name is Sarkis (he/his/him). I am a Ph.D. student in Economics at Boston College since August 2017.
 
 My research interests are in empirical Industrial Organization and Energy Economics (with a touch of computational economics). I am interested in particular in the modeling and analysis of energy markets and the associated environmental policies.
 
