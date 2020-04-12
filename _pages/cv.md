@@ -16,7 +16,7 @@ redirect_from:
 
 #### Master's thesis: Competitive Behavior in the Ontario Electricity Generation Market (available [_here_](http://biblos.hec.ca/biblio/memoires/m2017NO48.pdf), in French)
 
-The results of my thesis can be divided in two connected parts. First, using IESO data, I find that the perfect competition assumption used in the analysis of the Ontario electricity market is not sufficient. Analysis can be improved by also considering a Cournot setting, highlighting the role of market power in Ontario, in particular in times of high demand. Second, using these two models, I compute the effects of different environmental policies on the market structure. These counterfactuals include input prices shocks (carbon tax) and portfolio manipulation (natural gas phase-out). Results show that market power has a negative effect on these policies, as they seem less efficient than within the perfect competition setting.
+The results of my thesis can be divided in two connected parts. First, using IESO data, I find that the perfect competition assumption used in the analysis of the Ontario electricity market is not sufficient. Analysis can be improved by also considering a Cournot setting, highlighting the role of market power in Ontario, in particular in times of high demand. Second, using these two models, I compute the effects of different environmental policies on the market structure. These counterfactuals include input price shocks (e.g. carbon tax) and portfolio manipulation (e.g. natural gas phase-out). Results show that market power has a negative effect on these policies, as they seem less efficient than within the perfect competition setting.
 
 ------
 
