@@ -17,8 +17,8 @@ Here is a list of all classes I was a Lecturer for:
 
 Here is a list of all classes I was a Teaching Assistant for:
 
-- Principles of Economics (Boston College, Winter 2020);
-- Principles of Microeconomics (Boston College, Fall 2019);
+- Principles of Economics (Boston College, 3 semesters);
+- Principles of Microeconomics (Boston College, 1 semester);
 - Consumer Behaviour and Cost-Benefit Analysis (HEC Montréal, Masters level, Fall 2016);
 - Macroeconomic Analysis (HEC Montréal, Winter 2016);
 - Microeconomic Analysis (HEC Montréal, Fall 2015);
