@@ -23,5 +23,5 @@ The best way to contribute requires you to get used to GitHub, fork the Lecture 
         - discussion: for discussing topics related to the notes
         - question: for asking a question about the notes
 
-![6628a08dd753d35369ccda4be1655e23.png](../_resources/4eac26a87d87446285df54b82eb3adb6.png)
+![6628a08dd753d35369ccda4be1655e23.png](_resources/4eac26a87d87446285df54b82eb3adb6.png)
 
