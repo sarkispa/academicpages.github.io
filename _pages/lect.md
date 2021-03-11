@@ -8,7 +8,9 @@ redirect_from:
   - /lect.html
 ---
 
-During my first years in the Ph.D. program, I've compiled a set of lecture notes in some key courses. Here's a list of all of them, feel free to use them and give feedback via pull requests!
+During my first years in the Ph.D. program, I've compiled a set of lecture notes in some key courses. 
+Here's a list of all of them, feel free to use them and give feedback via pull requests. 
+I've outlined two ways to contribute [__here__](https://sarkispa.github.io/contribute/).
 
 ### Econometrics
 
